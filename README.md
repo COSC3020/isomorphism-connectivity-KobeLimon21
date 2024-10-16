@@ -10,7 +10,7 @@ $G_1=(V_1 , E_1)$ is isomorphic to $G_2 = (V_2, E_2)$ if there exists a
 one-to-one and onto function (bijection) $f: V_1 \rightarrow V_2$ such that $(u,v)
 \in E_1$ iff $(f(u),f(v)) \in E_2$.
 
-We can use two graphs here, our first graph with V: (A,B,C,D) and E: ((A,B),(B,D),(D,C)). Our second graph is V: (W,X,Y,Z) and E: ((W,X),(X,Z),(Y,Z)). 
+We can use two graphs here, our first graph with V: (A,B,C,D) and E: ((A,B),(B,D),(C,D)). Our second graph is V: (W,X,Y,Z) and E: ((W,X),(X,Z),(Y,Z)). 
 
 We can map these vertices to each other:
 
