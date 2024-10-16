@@ -22,7 +22,7 @@ C -> Y
 
 D -> Z 
 
-This is one to one, as each vertex has one specific vertex it is mapped to being that each one is unique. It is also onto, because each vertex in the second graph has a corresponding vertex in the first graph. There fore by the definition of bijection, there is a bijection here. 
+This is one to one, as each vertex has one specific vertex it is mapped to being that each one is unique. It is also onto, because each vertex in the second graph has a corresponding vertex in the first graph. Therefore by the definition of bijection, there is a bijection here. 
 
 This shows that both of these graphs are isomorphic despite not being completely connected as the edges (A,C) and (W,Y) do not exist here. Therefore this shows that two graphs can be isomorphic without being completely connected.
 
