@@ -13,9 +13,13 @@ one-to-one and onto function (bijection) $f: V_1 \rightarrow V_2$ such that $(u,
 We can use two graphs here, our first graph with V: (A,B,C,D) and E: ((A,B),(B,D),(D,C)). Our second graph is V: (W,X,Y,Z) and E: ((W,X),(X,Z),(Y,Z)). 
 
 We can map these vertices to each other:
+
 A -> W 
+
 B -> X
+
 C -> Y 
+
 D -> Z 
 
 This is one to one, as each vertex has one specific vertex it is mapped to being that each one is unique. It is also onto, because each vertex in the second graph has a corresponding vertex in the first graph. There fore by the definition of bijection, there is a bijection here. 
